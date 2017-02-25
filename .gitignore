@@ -1,2 +1,3 @@
 # exclude the 311 nyc dataset
 *.csv
+*.db
